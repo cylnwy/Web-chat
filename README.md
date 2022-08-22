@@ -1,5 +1,7 @@
 # 2019-Python
 
+Author: Huyue Wang
+
 This is a python-based web chat client that works with a pre-setted cherrypy server.
 
 The user can log in to their account, have a broadcast, private chat, and find other users through the web-based UI. 
