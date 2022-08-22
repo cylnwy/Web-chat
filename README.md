@@ -11,7 +11,7 @@ The development involved the use of python and cherrypy for the back-end and HTM
 ********
 To run the WebChat, the device should set up with python environments and able to load cherrypy, pynacl, and Jinia2 properly.
 
-~/2019-Python-hwan685/cherrypy-starter/example-client/ is the path of the main file, 'python3 main.py' could do the compiling via terminal under this path.
+'python3 main.py' could do the compiling via terminal under this path.
 
 In the Login page, username, password and the Connection Location(Uni_Lab, Uni_Wireless or Rest_word) have to be filled and selected for login into the server.
 
