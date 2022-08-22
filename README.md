@@ -1,10 +1,12 @@
-# 2019-Python
+# 2019-Python-WebCat
+
+(The outcome of the Engnieering Part III course)
 
 Author: Huyue Wang
 
 This is a python-based web chat client that works with a pre-setted cherrypy server.
 
-The user can log in to their account, have a broadcast, private chat, and find other users through the web-based UI. 
+The user can log in to their account, then  have a broadcast, private chat, and find other users through the web-based UI. 
 
 The development involved the use of python and cherrypy for the back-end and HTML and CSS for the front-end.
 
