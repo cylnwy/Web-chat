@@ -1,6 +1,6 @@
 # 2019-Python-WebCat
 
-(The outcome of the Engnieering Part III course)
+(The outcome of the Engineering Part III course)
 
 Author: Huyue Wang
 
