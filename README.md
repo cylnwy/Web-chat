@@ -1,6 +1,5 @@
 # 2019-Python-WebCat
 
-(The outcome of the Engineering Part III course)
 
 
 This is a python-based web chat client that works with a pre-setted cherrypy server.
