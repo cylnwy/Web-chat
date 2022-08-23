@@ -2,7 +2,6 @@
 
 (The outcome of the Engineering Part III course)
 
-Author: Huyue Wang
 
 This is a python-based web chat client that works with a pre-setted cherrypy server.
 
